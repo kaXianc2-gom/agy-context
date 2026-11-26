@@ -1,8 +1,8 @@
 {
   "name": "agy-context",
-  "displayName": "Context Lens (agy-context)",
+  "displayName": "上下文透视 (agy-context)",
   "version": "5.1.0",
-  "description": "Local Context Lens dashboard and dual-column in-chat context anatomy plugin for Antigravity: token & latency donuts, 7-day spend charts, activity heatmap, real plugin baseline sizing, and step/turn diff browser.",
+  "description": "面向 Antigravity 的「上下文透视」全局用量看板与对话内双栏上下文解剖插件（支持中英双语、模型/工作区交叉钻取、实测静态基线、活跃窗口/比前步/比前轮对比与实时同步）。",
   "author": {
     "name": "kaXianc2-gom",
     "url": "https://github.com/kaXianc2-gom"
@@ -14,8 +14,8 @@
   },
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
-    "/context Open the live Context Anatomy side pane for this conversation",
-    "Open Context Lens to review 30-day token usage, cache hit rate, and model/workspace breakdown",
-    "Show what new context items were added in the latest turn"
+    "/context 打开当前对话的上下文双栏剖析面板",
+    "打开上下文透视看板，查看近 30 天各模型与工作区的 Token 消耗、耗时与会话分布",
+    "对比当前对话最近一轮新增了哪些上下文条目"
   ]
 }
