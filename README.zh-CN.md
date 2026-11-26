@@ -8,6 +8,16 @@
 
 ---
 
+## 界面预览
+
+### 全局「上下文透视」看板
+![上下文透视全局看板](docs/screenshots/zh-dashboard.png)
+
+### 对话内双栏「上下文」解剖面板
+![上下文透视会话解剖](docs/screenshots/zh-context-anatomy.png)
+
+---
+
 ## 核心功能
 
 ### 1. 全局「上下文透视」看板（左侧导航入口）
