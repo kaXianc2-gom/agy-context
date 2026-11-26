@@ -8,6 +8,16 @@ Both **English (`main` branch)** and **Simplified Chinese (`zh-CN` branch)** off
 
 ---
 
+## Preview
+
+### Global Context Lens Dashboard
+![Context Lens Global Dashboard](docs/screenshots/en-dashboard.png)
+
+### In-Conversation Dual-Column Context Anatomy
+![Context Lens Session Anatomy](docs/screenshots/en-context-anatomy.png)
+
+---
+
 ## Key Features
 
 ### 1. Global **Context Lens** Dashboard (Left Sidebar Entrypoint)
