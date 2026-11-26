@@ -1,0 +1,24 @@
+{
+  "name": "agy-context",
+  "version": "5.1.0",
+  "description": "Context Lens — Local Cross-Session Telemetry & In-Chat Context Anatomy Plugin for Antigravity",
+  "type": "module",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaXianc2-gom/agy-context.git"
+  },
+  "scripts": {
+    "build": "node src/build.mjs --lang=en",
+    "build:en": "node src/build.mjs --lang=en",
+    "build:zh": "node src/build.mjs --lang=zh"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/ext-apps": "^1.0.0",
+    "@modelcontextprotocol/sdk": "^1.27.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}

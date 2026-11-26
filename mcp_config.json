@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "agy_context_mcp": {
+      "command": "node",
+      "args": [
+        "${PLUGIN_ROOT}/bin/server.cjs",
+        "--data-dir=${PLUGIN_DATA}",
+        "--plugin-root=${PLUGIN_ROOT}",
+        "--lang=en"
+      ]
+    }
+  }
+}

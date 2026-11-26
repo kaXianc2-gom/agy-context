@@ -1,0 +1,21 @@
+{
+  "name": "agy-context",
+  "displayName": "Context Lens (agy-context)",
+  "version": "5.1.0",
+  "description": "Local Context Lens dashboard and dual-column in-chat context anatomy plugin for Antigravity: token & latency donuts, 7-day spend charts, activity heatmap, real plugin baseline sizing, and step/turn diff browser.",
+  "author": {
+    "name": "kaXianc2-gom",
+    "url": "https://github.com/kaXianc2-gom"
+  },
+  "homepage": "https://github.com/kaXianc2-gom/agy-context",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaXianc2-gom/agy-context"
+  },
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "/context Open the live Context Anatomy side pane for this conversation",
+    "Open Context Lens to review 30-day token usage, cache hit rate, and model/workspace breakdown",
+    "Show what new context items were added in the latest turn"
+  ]
+}
